@@ -45,3 +45,6 @@ public class Ejemplo03 {
         
     }
 }
+/*
+sirve para crear un texto formateado y guardarlo en una variable, en lugar de imprimirlo directamente en pantalla
+*/
